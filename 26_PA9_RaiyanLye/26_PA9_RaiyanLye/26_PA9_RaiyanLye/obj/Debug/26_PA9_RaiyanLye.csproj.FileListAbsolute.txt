@@ -1,0 +1,10 @@
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\bin\Debug\26_PA9_RaiyanLye.exe.config
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\bin\Debug\26_PA9_RaiyanLye.exe
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\bin\Debug\26_PA9_RaiyanLye.pdb
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\obj\Debug\26_PA9_RaiyanLye.csprojAssemblyReference.cache
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\obj\Debug\_26_PA9_RaiyanLye.Form1.resources
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\obj\Debug\_26_PA9_RaiyanLye.Properties.Resources.resources
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\obj\Debug\26_PA9_RaiyanLye.csproj.GenerateResource.cache
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\obj\Debug\26_PA9_RaiyanLye.csproj.CoreCompileInputs.cache
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\obj\Debug\26_PA9_RaiyanLye.exe
+C:\Users\UnicornX1\Desktop\School\GitHub\26_PA9_RaiyanLye\26_PA9_RaiyanLye\26_PA9_RaiyanLye\obj\Debug\26_PA9_RaiyanLye.pdb
